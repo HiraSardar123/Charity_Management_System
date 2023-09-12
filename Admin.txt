@@ -1,0 +1,10 @@
+
+Ali 	to pay hostel mess	10000
+Sam 	to pay for sports	30000
+Saqib 	to pay for neurosurgery 	200000
+Shafe Syed	to pay hostel rent 	10000
+Shafe Ali 	to pay rent 	15000
+cd "d:\Computer Science Sem 1\Fundamentals of Computer Programming\C,C++ Coding\PROJECT\" ; if ($?) { g++ FINAL.cpp -o FINAL } ; if ($?) { .\FINAL }	sd	15000
+Muhammad Hassan 	to get a new bookshelf	25000
+	dfgvdfv	32
+	fsxbgfs	23
